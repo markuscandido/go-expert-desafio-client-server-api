@@ -1,4 +1,4 @@
-module github.com/markuscandido/goexpert/desafio-client-server-api
+module github.com/markuscandido/go-expert-desafio-client-server-api
 
 go 1.24.2
 
